@@ -4,6 +4,7 @@ import styled from 'styled-components';
 import Button from '../../UI/Button/Button';
 import './CourseInput.css';
 
+//Syntax for styled components
 const FormControl = styled.div`
   margin: 0.5rem 0;
 
